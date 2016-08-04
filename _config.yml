@@ -1,0 +1,28 @@
+name: Silverart
+favicon: null
+layout_spectrum: 0.2140206415206194
+typography_spectrum: 0.025081678992137313
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.07442513317801058
+  lightness: 0.7474772285204381
+  saturation: 0.8512205050792545
+  rhythmicContrast: 0.5498497209046036
+purpose: []
